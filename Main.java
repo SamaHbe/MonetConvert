@@ -10,6 +10,9 @@ public class Main {
         Dinars dinars = new Dinars();
         double amountInDinars = dollars.convertTo(amountInDollars, dinars);
         System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+                System.out.println("esmi samah kn me ta3rafnich");
+
+        
     }
 }
 
