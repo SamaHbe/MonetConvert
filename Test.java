@@ -1,4 +1,4 @@
-public class Main {
+public class Test {
     public static void main(String[] args) {
         Dollars dollars = new Dollars();
         Euros euros = new Euros();
@@ -10,6 +10,12 @@ public class Main {
         Dinars dinars = new Dinars();
         double amountInDinars = dollars.convertTo(amountInDollars, dinars);
         System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+                System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+
+                System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+
+                System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+
     }
 }
 
