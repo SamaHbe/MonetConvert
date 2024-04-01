@@ -10,6 +10,13 @@ public class Main {
         Dinars dinars = new Dinars();
         double amountInDinars = dollars.convertTo(amountInDollars, dinars);
         System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
+        Dinars dinars = new Dinars();
+        double amountInDinars = dollars.convertTo(amountInDollars, dinars);
+        System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");Dinars dinars = new Dinars();
+        double amountInDinars = dollars.convertTo(amountInDollars, dinars);
+        System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");Dinars dinars = new Dinars();
+        double amountInDinars = dollars.convertTo(amountInDollars, dinars);
+        System.out.println(amountInDollars + " USD = " + amountInDinars + " DZD");
     }
 }
 
